@@ -1,46 +1,47 @@
 William Harvard Weiskopf, IV
 14607 West 62nd Avenue Arvada, CO 80004
 720-663-9455
-wweiskop@mines.edu
-www.worldwidewilly.net
+william@weiskopf.me
+william.weiskopf.me
+
 
 Education:
   Colorado School of Mines, Fall 2009 - 2013
-    3.318 Cumulative GPA as of July 2011
-    Pursuing BS degrees in Mechanical Engineering and a minor Computer Science, to specialize in robotics
-    Robotics Club Member
-
+    3.175 Cumulative GPA as of August 2012
+    Pursuing BS degrees in Engineering with a Mechanical specialty and minors in Computer Science and Economics, with the goal to specialize in robotics
+    Robotics Club member
   Lakewood High School, 2005 - 2009
     International Baccalaureate Diploma Recipient
     Member of the National Honor Society
-    4 Years of French
-    4 years of the International Baccalaureate program, which provided me with strong work ethic, a high level of education, and great presentation skills
+    4 years of French
 
 
 Skills: 
-  Certified SolidWorks CAD Associate
-  LabVIEW programming exerience
-  Machine shop experience
-  Drafting Ability
-  Intermediate C++
-  Web Developer with knowledge of XHTML, CSS, some JavaScript and PHP
-    www.worldwidewilly.net
-    Birk Websites (www.birkindustries.com & www.birkindustrieshome.com)
-  WordPress setup and administration experience
-  Git version control system experience
-  Mastery of Microsoft Office: PowerPoint, Excel, Word, Access, Project, Publisher, etc.
-  Linux and general computer administration experience
+    Certified SolidWorks CAD Associate
+    LabVIEW programming experience
+    Machine shop experience
+    Drafting Ability
+    Intermediate C++
+    Web Developer with command of XHTML, CSS, PHP and some JavaScript and Python
+    WordPress setup, design, and administration experience
+    Git version control system experience
+    Microsoft Office: PowerPoint, Excel, Word, Access, Project, Publisher, etc.
+    Linux, command line, and general computer and network administration experience
+    French language proficiency
 
 
 Class Projects:
-    First Robotics Competition 2010 Mentor to Team 2859 for EPICS 2- Mentored a team of high school students in engineering design principles, helping them to design and build a robot for competition.
-    DemoSat-B 2009 CSM EPICS Team Project- Researched and designed a satellite to record the black and white sky albedo at a ceiling of 60,000 to 80,000 feet for Lockheed Martin.  Developed strong technical writing.
-    Multi-Disciplinary Engineering Lab- Work in teams with engineers from different branches to solve problems.  Collect mechanical data using a DAQ and LabView.
+    Lunabotics: Senior Design project, international NASA robotics competition
+    Robotics Class: Chosen final project involved constructing a Killough drive
+    Field Session: LabVIEW programming, machine shop, and SolidWorks design
+    First Robotics Competition 2010 Mentor to Team 2859: Mentored a team of high school students in engineering design principles and helped them to design and build a robot for competition.
+    DemoSat-B 2009 CSM EPICS Team Project: Researched and designed a satellite to record the black and white sky albedo at a ceiling of 60,000 to 80,000 feet for Lockheed Martin.
+    Multi-Disciplinary Engineering Lab- Work in teams with engineers from different branches to solve problems. Collect mechanical data using a DAQ and LabView.
 
 
 Employment Experience:
   CSM Alumni Association, Fall 2010 - Present
-    Web Developer, website rediesign work and eNewsletter publication
+    Network Administration Intern: Purchasing, setup and maintenance of the company’s servers, computers, and network.  Provide technical support.  Spearheaded projects to change how the company conducts their internal network.
     Data Specialist, maintaining and updating alumni database and web design
   
   Vitamin Cottage, Fall 2010 - Present
@@ -55,9 +56,8 @@ Employment Experience:
 
 
 Volunteer Experience: 
-  Volunteer for 2010 FRC Colorado Regional and FLL 2010 Qualifier
-  High School Leader for 2008 6th Grade Outdoor Lab
-  Service Projects:
+    Volunteer for 2010 FRC Colorado Regional and FLL 2010 Qualifier
+    High School Leader for 2008 6th Grade Outdoor Lab
+    2007 assistant coach for a U12 boys competitive soccer team
     Adult leader for the Denver Dive 6th and 7th grade service trip in Denver.
-    One week service trip to: New York, the Wyoming Wind River Reservation, Chicago, Las Vegas, and Guatemala.
-    Denver Rescue Mission, DenUM (Denver Urban Ministries), Greater Chicago Food Bank, Guatemala with Pura Vida, Hogar del Niño (Lemoa, Guatemala).
+    Denver Rescue Mission, DenUM (Denver Urban Ministries), Brooklyn, Greater Chicago Food Bank, the Wyoming Wind River Reservation, Guatemala with Pura Vida, Las Vegas, Hogar del Niño (Lemoa, Guatemala)
