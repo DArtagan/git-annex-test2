@@ -22,7 +22,7 @@ Skills:
     Machine shop experience
     Drafting Ability
     Intermediate C++
-    Web Developer with command of XHTML, CSS, PHP and some JavaScript and Python
+    Web Developer with command of HTML5, CSS, PHP and some JavaScript and Python
     WordPress setup, design, and administration experience
     Git version control system experience
     Microsoft Office: PowerPoint, Excel, Word, Access, Project, Publisher, etc.
