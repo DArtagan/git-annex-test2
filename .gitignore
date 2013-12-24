@@ -1,0 +1,21 @@
+~$*
+
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+
+# PDT-specific
+.buildpath
+
+# ZIPed project files
+*.zip
+
+# Logs
+error.log
+/bin
